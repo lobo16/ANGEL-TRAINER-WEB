@@ -38,7 +38,7 @@ function App() {
 
             <h1 className="text-4xl md:text-6xl font-black leading-tight mb-6">
               Entrena con Ángel por solo{" "}
-              <span className="text-blue-600">7€/hora</span>
+              <span className="text-blue-600">10€/hora</span>
             </h1>
 
             <p className="text-xl text-slate-700 mb-8">
@@ -66,7 +66,7 @@ function App() {
           <div className="bg-blue-600 rounded-3xl p-8 text-white shadow-2xl">
             <div className="bg-white/10 rounded-2xl p-6 mb-6">
               <p className="text-lg">Servicio principal</p>
-              <h2 className="text-5xl font-black">7€/hora</h2>
+              <h2 className="text-5xl font-black">10€/hora</h2>
               <p className="mt-2">Entrenamiento personal presencial</p>
             </div>
 
@@ -189,7 +189,7 @@ function App() {
               Entrenamiento personal
             </p>
 
-            <h3 className="text-5xl font-black my-4">7€/hora</h3>
+            <h3 className="text-5xl font-black my-4">10€/hora</h3>
 
             <p className="text-slate-600 mb-6">
               Incluye entrenamiento, gimnasio durante la sesión, rutina y
@@ -365,7 +365,7 @@ function App() {
               "Contactas por WhatsApp",
               "Revisamos tu objetivo",
               "Primer entreno gratis",
-              "7€/h / entreno",
+              "10€/h / entreno",
               "Añades nutrición personalizada si quieres",
             ].map((step, i) => (
               <div
